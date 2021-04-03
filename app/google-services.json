@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348572486567",
+    "project_id": "demosignin-9e789",
+    "storage_bucket": "demosignin-9e789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348572486567:android:f4e64d1c1795c46f508482",
+        "android_client_info": {
+          "package_name": "com.example.demosignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348572486567-sk2ssdedlvd14e8jt4toh5kfubii9c3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demosignin",
+            "certificate_hash": "2cc84d3c2a135e861f9b3a24503e1a9d618b1d21"
+          }
+        },
+        {
+          "client_id": "348572486567-nbcb46ooiquj4vefarees15vnetmne4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb6wClRWoaRNiv_cJn13G5hCmo16cbvZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348572486567-nbcb46ooiquj4vefarees15vnetmne4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
